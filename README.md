@@ -1,3 +1,3 @@
-# yugyeongh.github.io
+yugyeongh.github.io
 Hello👋🏻
 This is yugyeongh's homepage.
